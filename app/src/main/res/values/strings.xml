@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">good food</string>
+   <string name="ingredientsSalad">
+                    3 tomates\n
+                    2 poivrons verts grillés\n
+                    lavés et coupés en petit morceau\n
+                    un oignon,persil et coriandre\n
+                    2c à café d\'huile d\'olive 1c à s de  \n vinaigre de
+                    un peu de sel\n
+                    un peu de poivre un peu de cumin.
+   </string>
+    <string name="preparationSalad">
+        Dans un saladier mettre les tomates coupées en petit morceau\n
+        rajouter les poivrons, l oignon coupé en petit morceau,le persil,le coriandre.\n\n
+        Rajouter l\'huile d olive,le vinaigre,le sel,le poivre,le cumin.Mélanger le toute laisser\n
+        au frais avant de servir.
+    </string>
+
+    <string name="ingredientsCake">
+         3 bananes mûres\n
+         3 oeufs\n
+         80gr de beurre fondu\n
+         250gr de farine\n
+         140gr de sucre\n
+         100gr de chocolat noir\n
+         5cl de lait\n
+         1 sachet de levure chimique\n
+         Une pincée de sel.\n
+   </string>
+    <string name="preparationCake">
+        Préchauffer le four à 190°C. Écrasez les bananes à l\'aide d\'une fourchette puis les laisser de côté.\n \n
+        Dans un récipient, mélanger tous les ingrédients secs ensemble (farine, levure, sel).\n
+        ans un autre, battre les oeufs et le sucre jusqu\'à faire blanchir le mélange. Ajouter le lait et le beurre fondu puis mélanger\n \n
+        Introduire le mélange liquide au mélange sec jusqu\'à obtenir une texture bien homogène.\n
+        Ajouter les bananes écrasées puis mélanger.\n\n
+        Prendre la tablette de chocolat et la hacher grossièrement afin d\'obtenir des pépites. Les introduire au mélange\n\n
+        Beurrer et fariner un moule à cake, y verser la pâte à cake puis enfourner 40 minutes.
+    </string>
+
+    <string name="ingredientsBurger">
+        2 pains à burgers\n
+        2 steaks hachés façon boucher\n
+        2 tranches de fromage\n
+        1 tomate\n
+        1 oignon\n
+        4 cornichons\n
+        4 feuilles de salade\n
+        moutarde\n
+        ketchup.
+   </string>
+    <string name="preparationBurger">
+          Découper l\'oignon en fines lamelles et la tomate et les cornichons en tranches.\n
+          Couper le pain à burger en 2, et faire griller ses faces intérieures sur une poêle chaude. Réserver.\n\n
+          Mettre les steaks hachés à cuire, et appuyer dessus pour les écraser légèrement. Cuire selon ses goûts (saignant, à point, bien cuit).\n\n
+          Retourner les steaks hachés et déposer les tranches de fromage dessus afin qu\'il fonde. Attention, si vous voulez un steak haché bien cuit, attendre un peu avant de mettre le fromage, qui risquerait sinon de trop fondre et de couler dans la poêle.\n\n
+          Prendre le bas du pain à burger, et étaler un peu de moutarde dessus. Mettre également du ketchup et placer une lamelle d\'oignon dessus.\n\n
+          Mettre le steak haché cuit dessus, puis une tranche de tomate et des tranches de cornichon.\n\n
+          Finir par 2 feuilles de salade propres, et poser le chapeau du pain à burger dessus. Utiliser un pique en bois pour tenir le burger.\n\n
+    </string>
+
+    <string name="ingredientsPizza">
+       150 ml d\'eau\n
+       30 ml d\'huile d\'olive\n
+       250 gr de farine\n
+       3 gr de levure de boulanger sèche\n
+       1/2 c. à café de sel.\n
+   </string>
+    <string name="preparationPizza">
+         Verser la farine dans un bol, y ajouter l\'eau et mélanger avec les mains.\n\n
+         Laissez cette pâte dans le bol, couvrez le d\'un torchon et laissez reposer 20 minutes.\n\n
+         Mettre ensuite cette pâte dans le bol du robot, et ajoutez les sel, la levure, et l\'huile.\n\n
+         Puis, pétrissez la pâte pendant une dizaine de minutes.\n\n
+         Mettez la pâte en boule dans un grand saladier, couvrez la, et laissez-la gonfler jusqu\'à ce qu\'elle double de volume (environ 2 heures).\n\n
+         Une fois que la pâte a bien gonflé, placez-la sur un plan de travail fariné, et travaillez-la rapidement pour la dégazer (faire sortir l\'air de la pâte).\n
+         Placez ensuite la pâte sur une plaque de cuisson couverte de papier sulfurisé.\n\n
+         Etirez la pâte afin de former le cercle que sera votre pizza. Faitez le petit à petit afin de ne pas déchirer la pâte.\n
+         Repliez les bords afin de faire la croûte.\n
+         Garnissez votre pizza, et mettez la à cuire 12 minutes à 210°C.\n
+    </string>
+
+    <string name="ingredientsCookies">
+     100 gr de beurre\n
+     100 gr de sucre cassonade\n
+     75 gr de sucre normal\n
+     1 oeuf\n
+     200 gr de farine\n
+     100 gr de pépites de chocolat
+   </string>
+    <string name="preparationCookies">
+            Mélangez les ingrédients dans l\'ordre.\n\n
+            Déposez votre préparation sur du film plastique.\n\n
+            Enveloppez et congelez le tout durant 1 à 2 heures.\n\n
+            Coupez la pâte en rondelle et placez-les sur une plaque avec du papier sulfurisé.\n\n
+            Laissez de l\'espace entre vos cookies car ils ont tendance à s\'étaler lors de la cuisson.\n\n
+            Placez-les au four durant 7 minutes à 200°C, jusqu\'à ce qu\'ils soient dorés…\n\n
+    </string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
